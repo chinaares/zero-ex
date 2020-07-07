@@ -1,0 +1,2 @@
+# zero-ex
+本项目是一套纯用于学习数字货币交易平台原理的Spring Cloud Alibaba项目，移动端采用跨平台方案Flutter实现，接口API采用微服务方案SpringCloud Alibaba实现，通过Nacos作服务发现。管理后台系统使用renren-security框架快速实现构建。
